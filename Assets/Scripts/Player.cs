@@ -36,7 +36,6 @@ public class Player : MonoBehaviour
 
 
         bool isMove = (xAxis!=0f||zAxis!=0f); //입력값이 있을때를 체크해주기 위함
-        
 
         if (isMove) 
         {
