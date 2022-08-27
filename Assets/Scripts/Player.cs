@@ -47,7 +47,7 @@ public class Player : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Return))
         {
-            Debug.Log("## 도라에몽 주먹 발사!!!!!!!");
+            Debug.Log("## 도라에몽 주먹 발사!!!");
             isAttackProcess = true;
             //공격애니메이션
         }
